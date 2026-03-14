@@ -4,8 +4,7 @@ import com.vehicletrading.vehicle_trading.entity.Cell;
 import com.vehicletrading.vehicle_trading.service.CellService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.http.ResponseEnti
 
 import java.util.List;
 
